@@ -3445,6 +3445,18 @@
 	"userHighlightFontColorDesc": {
 		"message": "Color for highlighted text."
 	},
+	"userHighlightHideUsernamesTitle": {
+		"message": "Hide Usernames"
+	},
+	"userHighlightHideUsernamesDesc": {
+		"message": "Replace usernames with their highlight color."
+	},	
+	"userHighlightDefaultColorTitle": {
+		"message": "Default Color"
+	},
+	"userHighlightDefaultColorDesc": {
+		"message": "Color used for all non-highlighted users."
+	},	
 	"userHighlightAutoColorUsernamesTitle": {
 		"message": "Auto Color Usernames"
 	},
